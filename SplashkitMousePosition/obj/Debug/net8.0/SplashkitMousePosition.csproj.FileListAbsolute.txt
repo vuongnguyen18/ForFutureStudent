@@ -1,0 +1,14 @@
+C:\SIT771\ForFutureStudent\SplashkitMousePosition\bin\Debug\net8.0\SplashkitMousePosition.exe
+C:\SIT771\ForFutureStudent\SplashkitMousePosition\bin\Debug\net8.0\SplashkitMousePosition.deps.json
+C:\SIT771\ForFutureStudent\SplashkitMousePosition\bin\Debug\net8.0\SplashkitMousePosition.runtimeconfig.json
+C:\SIT771\ForFutureStudent\SplashkitMousePosition\bin\Debug\net8.0\SplashkitMousePosition.dll
+C:\SIT771\ForFutureStudent\SplashkitMousePosition\bin\Debug\net8.0\SplashkitMousePosition.pdb
+C:\SIT771\ForFutureStudent\SplashkitMousePosition\obj\Debug\net8.0\SplashkitMousePosition.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIT771\ForFutureStudent\SplashkitMousePosition\obj\Debug\net8.0\SplashkitMousePosition.AssemblyInfoInputs.cache
+C:\SIT771\ForFutureStudent\SplashkitMousePosition\obj\Debug\net8.0\SplashkitMousePosition.AssemblyInfo.cs
+C:\SIT771\ForFutureStudent\SplashkitMousePosition\obj\Debug\net8.0\SplashkitMousePosition.csproj.CoreCompileInputs.cache
+C:\SIT771\ForFutureStudent\SplashkitMousePosition\obj\Debug\net8.0\SplashkitMousePosition.dll
+C:\SIT771\ForFutureStudent\SplashkitMousePosition\obj\Debug\net8.0\refint\SplashkitMousePosition.dll
+C:\SIT771\ForFutureStudent\SplashkitMousePosition\obj\Debug\net8.0\SplashkitMousePosition.pdb
+C:\SIT771\ForFutureStudent\SplashkitMousePosition\obj\Debug\net8.0\SplashkitMousePosition.genruntimeconfig.cache
+C:\SIT771\ForFutureStudent\SplashkitMousePosition\obj\Debug\net8.0\ref\SplashkitMousePosition.dll
