@@ -1,0 +1,14 @@
+C:\SIT771\ForFutureStudent\SplashkitMouseDown\bin\Debug\net8.0\SplashkitMouseDown.exe
+C:\SIT771\ForFutureStudent\SplashkitMouseDown\bin\Debug\net8.0\SplashkitMouseDown.deps.json
+C:\SIT771\ForFutureStudent\SplashkitMouseDown\bin\Debug\net8.0\SplashkitMouseDown.runtimeconfig.json
+C:\SIT771\ForFutureStudent\SplashkitMouseDown\bin\Debug\net8.0\SplashkitMouseDown.dll
+C:\SIT771\ForFutureStudent\SplashkitMouseDown\bin\Debug\net8.0\SplashkitMouseDown.pdb
+C:\SIT771\ForFutureStudent\SplashkitMouseDown\obj\Debug\net8.0\SplashkitMouseDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIT771\ForFutureStudent\SplashkitMouseDown\obj\Debug\net8.0\SplashkitMouseDown.AssemblyInfoInputs.cache
+C:\SIT771\ForFutureStudent\SplashkitMouseDown\obj\Debug\net8.0\SplashkitMouseDown.AssemblyInfo.cs
+C:\SIT771\ForFutureStudent\SplashkitMouseDown\obj\Debug\net8.0\SplashkitMouseDown.csproj.CoreCompileInputs.cache
+C:\SIT771\ForFutureStudent\SplashkitMouseDown\obj\Debug\net8.0\SplashkitMouseDown.dll
+C:\SIT771\ForFutureStudent\SplashkitMouseDown\obj\Debug\net8.0\refint\SplashkitMouseDown.dll
+C:\SIT771\ForFutureStudent\SplashkitMouseDown\obj\Debug\net8.0\SplashkitMouseDown.pdb
+C:\SIT771\ForFutureStudent\SplashkitMouseDown\obj\Debug\net8.0\SplashkitMouseDown.genruntimeconfig.cache
+C:\SIT771\ForFutureStudent\SplashkitMouseDown\obj\Debug\net8.0\ref\SplashkitMouseDown.dll

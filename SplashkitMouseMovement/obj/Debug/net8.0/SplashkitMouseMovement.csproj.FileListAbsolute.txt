@@ -1,0 +1,14 @@
+C:\SIT771\ForFutureStudent\SplashkitMouseMovement\bin\Debug\net8.0\SplashkitMouseMovement.exe
+C:\SIT771\ForFutureStudent\SplashkitMouseMovement\bin\Debug\net8.0\SplashkitMouseMovement.deps.json
+C:\SIT771\ForFutureStudent\SplashkitMouseMovement\bin\Debug\net8.0\SplashkitMouseMovement.runtimeconfig.json
+C:\SIT771\ForFutureStudent\SplashkitMouseMovement\bin\Debug\net8.0\SplashkitMouseMovement.dll
+C:\SIT771\ForFutureStudent\SplashkitMouseMovement\bin\Debug\net8.0\SplashkitMouseMovement.pdb
+C:\SIT771\ForFutureStudent\SplashkitMouseMovement\obj\Debug\net8.0\SplashkitMouseMovement.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIT771\ForFutureStudent\SplashkitMouseMovement\obj\Debug\net8.0\SplashkitMouseMovement.AssemblyInfoInputs.cache
+C:\SIT771\ForFutureStudent\SplashkitMouseMovement\obj\Debug\net8.0\SplashkitMouseMovement.AssemblyInfo.cs
+C:\SIT771\ForFutureStudent\SplashkitMouseMovement\obj\Debug\net8.0\SplashkitMouseMovement.csproj.CoreCompileInputs.cache
+C:\SIT771\ForFutureStudent\SplashkitMouseMovement\obj\Debug\net8.0\SplashkitMouseMovement.dll
+C:\SIT771\ForFutureStudent\SplashkitMouseMovement\obj\Debug\net8.0\refint\SplashkitMouseMovement.dll
+C:\SIT771\ForFutureStudent\SplashkitMouseMovement\obj\Debug\net8.0\SplashkitMouseMovement.pdb
+C:\SIT771\ForFutureStudent\SplashkitMouseMovement\obj\Debug\net8.0\SplashkitMouseMovement.genruntimeconfig.cache
+C:\SIT771\ForFutureStudent\SplashkitMouseMovement\obj\Debug\net8.0\ref\SplashkitMouseMovement.dll
