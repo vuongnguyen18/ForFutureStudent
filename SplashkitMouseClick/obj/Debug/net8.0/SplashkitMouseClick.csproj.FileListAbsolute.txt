@@ -1,0 +1,14 @@
+C:\SIT771\ForFutureStudent\SplashkitMouseClick\bin\Debug\net8.0\SplashkitMouseClick.exe
+C:\SIT771\ForFutureStudent\SplashkitMouseClick\bin\Debug\net8.0\SplashkitMouseClick.deps.json
+C:\SIT771\ForFutureStudent\SplashkitMouseClick\bin\Debug\net8.0\SplashkitMouseClick.runtimeconfig.json
+C:\SIT771\ForFutureStudent\SplashkitMouseClick\bin\Debug\net8.0\SplashkitMouseClick.dll
+C:\SIT771\ForFutureStudent\SplashkitMouseClick\bin\Debug\net8.0\SplashkitMouseClick.pdb
+C:\SIT771\ForFutureStudent\SplashkitMouseClick\obj\Debug\net8.0\SplashkitMouseClick.GeneratedMSBuildEditorConfig.editorconfig
+C:\SIT771\ForFutureStudent\SplashkitMouseClick\obj\Debug\net8.0\SplashkitMouseClick.AssemblyInfoInputs.cache
+C:\SIT771\ForFutureStudent\SplashkitMouseClick\obj\Debug\net8.0\SplashkitMouseClick.AssemblyInfo.cs
+C:\SIT771\ForFutureStudent\SplashkitMouseClick\obj\Debug\net8.0\SplashkitMouseClick.csproj.CoreCompileInputs.cache
+C:\SIT771\ForFutureStudent\SplashkitMouseClick\obj\Debug\net8.0\SplashkitMouseClick.dll
+C:\SIT771\ForFutureStudent\SplashkitMouseClick\obj\Debug\net8.0\refint\SplashkitMouseClick.dll
+C:\SIT771\ForFutureStudent\SplashkitMouseClick\obj\Debug\net8.0\SplashkitMouseClick.pdb
+C:\SIT771\ForFutureStudent\SplashkitMouseClick\obj\Debug\net8.0\SplashkitMouseClick.genruntimeconfig.cache
+C:\SIT771\ForFutureStudent\SplashkitMouseClick\obj\Debug\net8.0\ref\SplashkitMouseClick.dll
